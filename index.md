@@ -301,33 +301,44 @@ La construcción del _concepto_ de función es un proceso largo y difícil para 
 - Hacer predicciones a corto plazo.
 - Analizar la existencia de una relación entre dos variables.
 
+. . .
+
 > Se puede (debe) hacer una aproximación "informal" a las funciones en las primeras fases de obtención, interpretación y comunicación de información.
 
 ## Formas de presentar una función
 
-Una función puede presentarse: 
+Una función puede presentarse mediante: 
 
 - Descripciones verbales (orales o escritas)
 - Representaciones gráficas
 - Tablas
 - Fórmulas o expresiones algebraicas
 
+. . .
+
 > No hacen falta fórmulas ni expresiones algebraicas para introducir las características globales (tendencia, periodicidad, etc.), y locales de las funciones (extremos, cortes, etc.).
 
 ## Representaciones gráficas y verbales
 
-- Están presentes en muchas situaciones corrientes en las que se intercambia información. Podemos usar en clase gráficas tomadas de Internet.
-- El estudio de gráficas reales pone de manifiesto conceptos que en abstracto son difíciles de comprender.
-- El enfoque verbal y gráfico es más asequible para los alumnos. Permite dedicarse a las ideas fundamentales (conceptos) y no simplemente al cálculo. 
+:::incremental
+
+- Están presentes en muchas **situaciones cotidianas** en las que se intercambia información. Podemos usar en clase gráficas tomadas de Internet.
+- El estudio de **gráficas reales** pone de manifiesto conceptos que en abstracto son difíciles de comprender.
+- El enfoque **verbal y gráfico** es más asequible para los alumnos. Permite dedicarse a las ideas fundamentales (conceptos) y no simplemente al cálculo. 
+
+:::
 
 ## Representaciones gráficas y verbales
 
-- Un tratamiento cualitativo centrado en las características globales de las gráficas.
-- Un acercamiento reflexivo y con significado a los aspectos cuantitativos:
+:::incremental
+- Un tratamiento **cualitativo** centrado en las características globales de las gráficas.
+- Un acercamiento **reflexivo y con significado** a los aspectos cuantitativos:
 	- Representación de puntos.
 	- Elección y efecto de la escala en los ejes.
 	- Dibujo de curvas a partir de tablas de valores.
 	- Etc.
+:::
+
 
 # Actividades y recursos: el libro del Shell Centre
 
@@ -339,6 +350,8 @@ Una función puede presentarse:
 ::: {.column width="35%"}
 
 ![](assets/images/libroshell1.jpg){width=60%}  
+
+[Descargar](https://sede.educacion.gob.es/publiventa/el-lenguaje-de-funciones-y-graficas/pedagogia/1065)
 
 :::
 
@@ -355,23 +368,26 @@ Las tareas planteadas y la forma de _hacer matemáticas_ contribuyen a crear un 
 
 ## Estructura del libro
 
-- Unidad A: se aborda la interpretación y bosquejo de los gráficas. Se centra en el estudio cualitativo de las mismas basado en la interpretación de sus características globales.
-- Unidad B: se descubren y exploran situaciones realistas, centrándose en la búsqueda de patrones y su expresión en forma verbal, gráfica y finalmente algebraica.
+:::incremental
+
+- **Unidad A**: se aborda la interpretación y bosquejo de los gráficas. Se centra en el estudio cualitativo de las mismas basado en la interpretación de sus características globales.
+- **Unidad B**: se descubren y exploran situaciones realistas, centrándose en la búsqueda de patrones y su expresión en forma verbal, gráfica y finalmente algebraica.
 - Modelos de preguntas de examen.
 - Una colección de problemas (problemas y gráficas y otros datos para interpretar).
 - Materiales de apoyo. Sobre la forma de trabajar o la evaluación.
-
-## 
+:::
 
 
 ## Unidad A
+
+Lo de los niveles es muy, pero que muy orientativo. 
 
 |                                             	| Nivel propuesto 	|
 |---------------------------------------------	|-----------------	|
 | A1. Interpretación de puntos.               	|       1º ESO    	|
 | A2. ¿Son las gráficas solamente dibujos?    	|       1º ESO     	|
-| A3. Dibujo de gráficas a partir de textos.  	|                 	|
-| A4. Diseño de gráficas a partir de dibujos. 	|                 	|
+| A3. Dibujo de gráficas a partir de textos.  	|       1º-2º ESO  	|
+| A4. Diseño de gráficas a partir de dibujos. 	|       1º-2º ESO  	|
 | A5. Mirando gradientes.                     	|       3º ESO     	|
 
 
@@ -380,84 +396,181 @@ Las tareas planteadas y la forma de _hacer matemáticas_ contribuyen a crear un 
 |                                                 	| Nivel propuesto 	|
 |-------------------------------------------------	|-----------------	|
 | B1. Realización de gráficas a partir de tablas. 	|     2º ESO     	|
-| B2. Descubriendo funciones en situaciones.      	|     2º ESO       	|
+| B2. Descubriendo funciones en situaciones.      	|     2º-3º ESO    	|
 | B3. Funciones exponenciales.                    	| 	  4º ESO    	|
 | B4. Una función de varias variables.            	|     4º ESO       	|
 
 
-## Abordando un problema en grupo
+## Abordando un problema en grupo: un paseo por el campo
 
-> Un paseo por el campo
+Eligiendo diferentes etiquetas para los ejes, la gráfica puede representar muchos paseos diferentes. 
 
-Los ejes de esta gráfica no han sido etiquetados. Eligiendo diferentes etiquetas, las gráficas pueden representar muchos paseos diferentes. 
+![](assets/images/abordando1.png){width=60%}  
 
-![](assets/images/abordando1.png){width=80%}  
+. . .
 
-## Abordando un problema en grupo
+> Actividad: pensemos en cinco diferentes paseos por el campo.
 
-Actividad 1. Decidir sobre cinco diferentes paseos por el campo que puedan ser ilustrados por la gráfica dada. 
+## Abordando un problema en grupo: paseos por el campo
 
-Por ejemplo, las etiquetas podrían ser «distancia a casa» para el eje vertical y «tiempo
-transcurrido» para el eje horizontal. Un segundo juego de etiquetas podría
-ser «nivel de ansiedad» frente a «hambre», y similares. Para cada
-idea, copiad la gráfica superior, etiquetad los ejes, poned un nombre al
-paseo y escribir una corta descripción del paseo por el campo concreto
-que está ilustrando la gráfica.
+Las etiquetas podrían ser:
+
+:::incremental
+- «Distancia a casa» para el eje vertical y «tiempo transcurrido» para el eje horizontal. 
+- «Nivel de ansiedad» frente a «hambre». 
+:::
+
+. . .
+
+Para cada idea, copiad la gráfica superior, etiquetad los ejes, poned un nombre al paseo y escribid una corta descripción del paseo por el campo concreto que está ilustrando la gráfica.
 
 ## Abordando un problema en grupo
 
 >El Caballo y Los Perros
 
-Salimos de casa y caminamos tranquilamente durante un rato. Al final
-llegamos a «El Caballo y Los Perros»; estaba bien para sentarse en el jardín
-y disfrutar de un bien ganado descanso y unas jarras de cerveza. Pasó
-el tiempo y de repente nos dimos cuenta de que debíamos apresurarnos
-si queríamos llegar a casa antes del anochecer: estábamos preocupados
-de estar mucho tiempo fuera a causa de los niños.
+Salimos de casa y caminamos tranquilamente durante un rato. Al final llegamos a «El Caballo y Los Perros»; estaba bien para sentarse en el jardín y disfrutar de un bien ganado descanso y unas jarras de cerveza. Pasó el tiempo y de repente nos dimos cuenta de que debíamos apresurarnos si queríamos llegar a casa antes del anochecer: estábamos preocupados de estar mucho tiempo fuera a causa de los niños.
+
+![](assets/images/distanciatiempo.jpg){width=25%}  
+
+
 
 ## Abordando un problema en grupo
 
 >El Sendero Desconocido
 
-Teníamos que seguir una ruta bastante difícil y no era fácil encontrar
-los mojones. Estábamos cada vez más preocupados, pero al cabo de un
-rato Claude descubrió que la lejana colina debía ser Beacon's Hang y pensamos
-que estábamos en la dirección correcta. El camino se fue haciendo
-más familiar y estuvimos seguros de estar en el sendero correcto. Desgraciadamente,
-habíamos olvidado traer nuestros bocadillos.
+Teníamos que seguir una ruta bastante difícil y no era fácil encontrar los mojones. Estábamos cada vez más preocupados, pero al cabo de un rato Claude descubrió que la lejana colina debía ser Beacon's Hang y pensamos que estábamos en la dirección correcta. El camino se fue haciendo más familiar y estuvimos seguros de estar en el sendero correcto. Desgraciadamente, habíamos olvidado traer nuestros bocadillos.
+
+![](assets/images/ansiedadhambre.jpg){width=25%}  
+
+
+## Abordando un problema en grupo: actividad 2
+
+![](assets/images/matriz.jpg){width=80%}  
+
+## Abordando un problema en grupo: actividad final
+
+:::incremental
+1. ¿Hubieras preferido pensar sobre las actividades individualmente antes de discutirlas con tu grupo?
+2. ¿Cómo se ha organizado el grupo...
+	- ... para registrar sus decisiones?
+	- ... para preparar su presentación a los otros grupos?
+:::
+
+## Abordando un problema en grupo: actividad final
+
+:::incremental	
+3. ¿Qué papel jugó cada miembro del grupo en la discusión? ¿Hubo alguien que...
+	- ...dominó?
+	- ... trabajó independientemente de los demás?
+	- ... hizo un montón de preguntas?
+	- ... ofreció sugerencias?
+	- ... recogió o rebatió sugerencias ofrecidas por los demás?
+4. ¿Cómo se organizó la sesión de puesta en común? ¿Cada grupo tuvo la oportunidad de explicar sus hallazgos?
+:::
+
+
+## Guía para las discusiones de aula
+
+Ser fundamentalmente un **moderador** o **facilitador** que:
+
+— Dirige el curso de la discusión y da a todos la oportunidad de participar.
+— No interrumpe ni permite a los demás interrumpir al que habla.
+— Valora todas las opiniones y no impone su propio punto de vista.
+— Ayuda a los alumnos a clarificar sus ideas en sus propios términos.
+
+
+## Guía para las discusiones de aula
+
+Ser ocasionalmente un **interrogador** o **provocador** que:
+
+— Introduce una nueva idea cuando la discusión decae.
+— Investiga un punto de vista.
+— Hace de abogado del diablo.
+— Enfoca a un concepto importante.
+— Evita realizar preguntas múltiples, dirigistas, retóricas o cerradas, que sólo requieran respuestas monosilábicas.
+
+
+## Guía para las discusiones de aula
+
+No ser nunca un **juez** o **evaluador** que:
+
+— Valora todas las respuestas con un «sí», «bien», «interesante », etc. A menudo esto dificulta que a los demás aporten ideas alternativas, y predispone más hacia resultados exteriormente aceptables que hacia un diálogo exploratorio.
+— Resume prematuramente.
+
+## Interpretación de puntos
+
+
+
+
 
 
 ## Evaluación
 
 Las preguntas de examen pretenden evaluar y reconocer los siguientes procesos:
 
-1. Interpretación de representaciones matemáticas mediante palabras
-o dibujos.
+1. Interpretación de representaciones matemáticas mediante palabras o dibujos.
 2. Traducción de textos o dibujos a representaciones matemáticas.
 3. Traducción entre representaciones matemáticas.
 4. Descripción de relaciones funcionales mediante palabras o dibujos.
-5. Combinación de información presentada en varias formas, y extracción
-de inferencias donde corresponda.
-6. Uso de representaciones matemáticas para resolver problemas surgidos
-de situaciones realistas.
-7. Descripción o explicación de los métodos utilizados y de los resultados
-obtenidos.
+5. Combinación de información presentada en varias formas, y extracción de inferencias donde corresponda.
+6. Uso de representaciones matemáticas para resolver problemas surgidos de situaciones realistas.
+7. Descripción o explicación de los métodos utilizados y de los resultados obtenidos.
 
 ## La carrera de vallas
 
-3. Como es más difícil diseñar un esquema de calificación para «La carrera de vallas», sugerimos dedicar el resto de la sesión de calificación a este problema. La estrategia anterior no es aplicable a esta pregunta. Las respuestas de los alumnos pueden ser extremadamente variadas. Si aún no lo has hecho, responde tú mismo al problema y luego discute qué puntos consideras que son más importantes de mencionar. Haz una lista. Puede ser algo larga —y solo hay 8 puntos para esta pregunta; por lo tanto, intenta decidir qué factores consideras de mayor importancia.
+- Es difícil diseñar un esquema de calificación para «La carrera de vallas» y la estrategia anterior no es aplicable a esta pregunta. Las respuestas de los alumnos pueden ser extremadamente variadas. 
+- Responde tú mismo al problema y luego discute qué puntos consideras que son más importantes de mencionar. Haz una lista. Puede ser algo larga —y solo hay 8 puntos para esta pregunta; por lo tanto, intenta decidir qué factores consideras de mayor importancia.
+
+## Evaluación de la carrera de vallas
 
 
-A continuación, se dan seis textos de alumnos para esta pregunta. Léelos todos una vez antes de intentar evaluarlos. Sobre la base de tu impresión general ordénalos de mejor a peor. (Todavía no discutas con tus compañeros este orden.) Escribe tu clasificación en la columna Co del siguiente
-cuadro:
+A continuación, se dan seis textos de alumnos para esta pregunta. Léelos todos una vez antes de intentar evaluarlos. Sobre la base de tu impresión general ordénalos de mejor a peor. (Todavía no discutas con tus compañeros este orden.) 
+
+- Escribe tu clasificación. 
+- A continuación, compara la lista de factores que consideras importantes con las listas elaboradas por tus compañeros y con el esquema de calificación propuesto en el libro.
+
+## Esquema de calificación propuesto en el libro para la carrera
+
+Interpretación mediante textos de una representación matemática
+
+- 1 punto por «C toma el primer puesto».
+- 1 punto por «C deja de correr».
+- 1 punto por «B supera a A».
+- 1 punto por «B gana».
+
+. . .
+
+2 puntos por cualesquiera cuatro de los siguientes:
+
+«A y B pasan a C»
+«C empieza a correr de nuevo»
+«C corre a menos velocidad»
+«A frena» o «B acelera»
+«A termina el segundo» o «C termina el último».
+
+##
+
+Puntuación parcial:
+
+- 1 punto por dos o tres cualesquiera de los puntos mencionados.
+- 2 puntos por un comentario animado que mencione las vallas.
+
+. . .
+
+Puntuación parcial:
+- 1 punto por un comentario animado que no mencione las vallas o por un informe que mencione las vallas.
+
+En total se pueden conceder 8 puntos para esta cuestión.
 
 
 
-A continuación, compara la lista de factores que consideras importantes con las listas elaboradas por tus compañeros y con el esquema de calificación de la página 118. Discute las discrepancias.
-Utiliza nuestro esquema de calificación para puntuar los seis textos y escribe tu puntuación en P,. Escribe también la nueva clasificación que surge según la puntuación en la columna Q.
-Ahora compara tus resultados con los de tus colegas, considerando cada uno de los seis escritos. Tratad de eliminar diferencias y escribid la puntuación definitiva en la columna P2.
-Finalmente, podéis comparar vuestras calificaciones con las que se dan en la página 269.
+# Desmos
 
+## 
+
+https://teacher.desmos.com/
+
+[Actividades de funciones](https://teacher.desmos.com/collection/5da6476150c0c36a0caf8ffb)
 
 
 # Otros recursos
@@ -474,6 +587,9 @@ Imagen: libro de Danielson (2016).
 
 ## Ejemplo de WODB de funciones
 
+
+![](assets/images/wodb9.jpg){ width=80% }
+ [www.wodb.ca](https://wodb.ca/)
 
 
 ## Role-playing para los sistemas de coordenadas
