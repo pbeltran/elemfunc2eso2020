@@ -1,7 +1,7 @@
 ---
 title: Elementos de didáctica para una propuesta de funciones en 2º ESO
 subtitle: 
-author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 21 de enero de 2020 <br> IES Pilar Lorengar, Zaragoza.
+author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 14 de enero de 2020 <br> IES Pilar Lorengar, Zaragoza.
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
@@ -10,19 +10,19 @@ widescreen: true
 ---
 
 
-# Acceso a la presentación {data-background-image="assets/images/pc.jpg" data-background-opacity="0.25"}
+# Acceso a la presentación {data-background-image="assets/art/pc.jpg" data-background-opacity="0.25"}
 
-## {data-background-image="assets/images/pc.jpg" data-background-opacity="0.18"}
+## {data-background-image="assets/art/pc.jpg" data-background-opacity="0.18"}
 
 ![](assets/qr.png){width=50%}
 
-[https://pbeltran.github.io/unaempresadocente-videos](https://pbeltran.github.io/unaempresadocente-videos)
+[https://pbeltran.github.io/elemfunc2eso2020](https://pbeltran.github.io/elemfunc2eso2020)
 
 
 
-# ¿Qué dice el currículo? {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
+# ¿Qué dice el currículo? {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
-## 1º ESO {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
+## 1º ESO {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
 ## BLOQUE 2: Funciones (1º ESO)
 
@@ -52,7 +52,7 @@ widescreen: true
 :::
 
 
-## 2º ESO {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
+## 2º ESO {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
 ## BLOQUE 2: Funciones (2º ESO)
 
@@ -91,7 +91,7 @@ Crit.MA.4.3. Comprender el concepto de función. Reconocer, interpretar y analiz
 
 
 
-## 3º ESO Académicas {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
+## 3º ESO Académicas {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
 ## BLOQUE 2: Funciones (3º ESO Ac.)
 
@@ -142,7 +142,7 @@ Reconocer situaciones de relación funcional que necesitan ser descritas mediant
 
 
 
-## 4º ESO Académicas {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
+## 4º ESO Académicas {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
 ## BLOQUE 2: Funciones (4º ESO Ac.)
 
@@ -191,7 +191,7 @@ Analizar información proporcionada a partir de tablas y gráficas que represent
 
 
 
-## 3º ESO Aplicadas {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
+## 3º ESO Aplicadas {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
 ## BLOQUE 2: Funciones (3º ESO Ap)
 
@@ -239,7 +239,7 @@ Reconocer situaciones de relación funcional que necesitan ser descritas mediant
 
 
 
-## 4º ESO Aplicadas {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
+## 4º ESO Aplicadas {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
 ## BLOQUE 2: Funciones (4º ESO Ap)
 
@@ -338,7 +338,7 @@ Una función puede presentarse:
 
 ::: {.column width="35%"}
 
-![](assets/images/this/libroshell1.jpg){width=60%}  
+![](assets/images/libroshell1.jpg){width=60%}  
 
 :::
 
@@ -391,7 +391,7 @@ Las tareas planteadas y la forma de _hacer matemáticas_ contribuyen a crear un 
 
 Los ejes de esta gráfica no han sido etiquetados. Eligiendo diferentes etiquetas, las gráficas pueden representar muchos paseos diferentes. 
 
-![](assets/images/this/abordando1.png){width=80%}  
+![](assets/images/abordando1.png){width=80%}  
 
 ## Abordando un problema en grupo
 
@@ -465,7 +465,7 @@ Finalmente, podéis comparar vuestras calificaciones con las que se dan en la p�
 ## WODB {data-background-image="assets/images/wodb_logo.jpg" data-background-opacity="0.15"}
 
 
-![](assets/images/this/wodb_logo.jpg){ width=50% }
+![](assets/images/wodb_logo.jpg){ width=50% }
 
  [www.wodb.ca](https://wodb.ca/)
  
@@ -495,10 +495,10 @@ Leinhardt, Zaslavsky, and Stein (1990):
 4. Concebir el gráfico como si estuviese hecho de puntos discretos.
 
 
-# Creencias sobre las matemáticas y su enseñanza {data-background-image="assets/images/class.jpg" data-background-opacity="0.18"}
+# Creencias sobre las matemáticas y su enseñanza {data-background-image="assets/art/class.jpg" data-background-opacity="0.18"}
 
 
-## Visión de las matemáticas {data-background-image="assets/images/clase.jpg" data-background-opacity="0.1"}
+## Visión de las matemáticas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
 
 - El proceso de enseñanza y aprendizaje es una negociación de significados. 
 	- Significado personal.
@@ -506,7 +506,7 @@ Leinhardt, Zaslavsky, and Stein (1990):
 
 >¿Qué visión de las matemáticas queremos transmitir?
 
-## Creencias sobre la enseñanza de las matemáticas {data-background-image="assets/images/clase.jpg" data-background-opacity="0.1"}
+## Creencias sobre la enseñanza de las matemáticas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
 
 Hay un consenso en que la resolución de problemas debería ser el eje central de la enseñanza y el aprendizaje de las matemáticas. Acerca de ello, hay que considerar tres perspectivas:
 
@@ -522,7 +522,7 @@ Hay un consenso en que la resolución de problemas debería ser el eje central d
 
 Para indagar un poquito sobre esto: [Gaulin \(2001\)](http://www.hezkuntza.ejgv.euskadi.eus/r43-573/es/contenidos/informacion/dia6_sigma/es_sigma/adjuntos/sigma_19/7_Tendencias_Actuales.pdf)
 
-## A través de la resolución de problemas {data-background-image="assets/images/clase.jpg" data-background-opacity="0.1"}
+## A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
 
 >¿El objetivo general de usar la RP en el aula de matemáticas debería ser enseñar la RP per se, o enseñar contenido matemático, usando la RP como vehículo? 
 
@@ -531,14 +531,14 @@ Para indagar un poquito sobre esto: [Gaulin \(2001\)](http://www.hezkuntza.ejgv.
 - La RP a menudo toma la forma de problemas de aplicación al final de cada lección, presumiblemente para promover la capacidad de **aplicar** lo aprendido. Así rara vez se cumple el propósito de enseñar a resolver problemas o desarrollar o profundizar el conocimiento de ese contenido (Anderson, 2014). 
 :::
 
-## A través de la resolución de problemas {data-background-image="assets/images/clase.jpg" data-background-opacity="0.1"}
+## A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
 
 :::incremental
 - Pero la atención (limitada) de la investigación sobre cómo se puede lograr el desarrollo de los conceptos a través de la RP indica que a la RP no se le ha dado un papel central en el plan de estudios, sino que se ha llevado a la periferia (Rigelman, 2013). 
 - Se necesitan más estudios que exploren si ambas metas pueden lograrse a la vez, examinando el impacto del desarrollo conceptual impulsado por problemas en el desarrollo de competencias para la resolución de problemas (Lester y Charles, 2003; Schoen y Charles, 2003). 
 :::
 
-## {data-background-image="assets/images/clase.jpg" data-background-opacity="0.1"}
+## {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
 
 >Si bien los estudios más recientes favorecen la RP como un medio para desarrollar la comprensión del contenido matemático en lugar de un fin en sí mismo, el debate está lejos de resolverse.
 
@@ -549,16 +549,16 @@ English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathem
 
 
 
-# Créditos y referencias {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
+# Créditos y referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
-## Lista de referencias {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
+## Lista de referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
 Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational videos according to specific didactics: the case of mathematics / Los vídeos educativos en línea desde las didácticas específicas: el caso de las matemáticas. _Cultura y Educación, 30_(4), 633-662. doi: 10.1080/11356405.2018.1524651. [Enlace](https://www.tandfonline.com/eprint/r8gbHE2dM75Z3t3wdE7U/full)
 
 Beltrán-Pellicer, P., Godino, J. D. (2019). An onto-semiotic approach to the analysis of the affective domain in mathematics education. _Cambridge Journal of Education_, 1-20. DOI: 10.1080/0305764X.2019.1623175. [Enlace](https://www.tandfonline.com/eprint/KimkMTSJt9uGibVg9Gej/full?target=10.1080/0305764X.2019.1623175) 
 
 
-## Créditos {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
+## Créditos {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
@@ -566,7 +566,7 @@ En estas diapositivas se han utilizado materiales disponibles en abierto y se ha
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
-## {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
+## {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
 Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/unaempresadocente-videos](https://github.com/pbeltran/unaempresadocente-videos)
 
