@@ -499,7 +499,75 @@ No ser nunca un **juez** o **evaluador** que:
 
 ## Interpretación de puntos
 
+¿Quién está representado por cada punto del diagrama?
 
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/puntos1.jpg){width=80%}  
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/puntos2.jpg){width=90%}  
+
+:::
+:::::::::::::
+
+## Interpretación de puntos
+
+
+En el escaparate de una papelería hay cinco cajas de rotuladores, A, B, C, D y E de varios tamaños (12, 24 y 36 rotuladores) y precios (2 €, 4 € y 6 €). La gráfica describe las características de las cajas:
+
+- ¿Qué caja sale a mejor precio?
+- ¿Qué caja sale a peor precio?
+
+![](assets/images/puntos3.jpg){width=60%}  
+
+## Interpretación de puntos
+
+Cada una de estas cuatro figuras tiene un área de 36 unidades cuadradas.
+
+- Marca 4 puntos en el gráfico inferior con las letras A, B, C y D.
+- ¿Puedes dibujar una quinta figura de 36 unidades cuadradas que corresponda al 5." punto? Explícalo.
+- Dibuja un diagrama que represente a todos los rectángulos con un área de 36 unidades cuadradas.
+- ¿Qué sucede si incluyes en tu gráfica todas las figuras con el mismo área?
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/puntos4.jpg){width=80%}  
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/puntos5.jpg){width=90%}  
+
+:::
+:::::::::::::
+
+
+## ¿Son las gráficas solamente dibujos?
+
+
+## Gráficas a partir de textos 
+
+
+## Gráficas a partir de dibujos 
+
+
+## Gradientes
+
+
+## Gráficas a partir de tablas 
+
+
+## Funciones en situaciones 
 
 
 
@@ -515,6 +583,22 @@ Las preguntas de examen pretenden evaluar y reconocer los siguientes procesos:
 5. Combinación de información presentada en varias formas, y extracción de inferencias donde corresponda.
 6. Uso de representaciones matemáticas para resolver problemas surgidos de situaciones realistas.
 7. Descripción o explicación de los métodos utilizados y de los resultados obtenidos.
+
+
+## Actividad de calificación
+
+Una actividad de calificación 1. Considera las preguntas «Camping», «Yendo a la escuela» y «Carrera de vallas» e intenta decidir qué proceso se está examinando en cada parte del problema. Luego rellena la tabla de procesos.
+
+## Actividad de calificación
+
+Considera ahora el problema del «Camping». 
+
+- Decide cuántos puntos deberían asignarse a cada parte. (La puntuación total para esta pregunta es de 15 puntos). 
+- Discútelo con tus colegas. 
+- ¿Discrepáis en el peso de cada parte? Intentad resolver las discrepancias. 
+
+Haced lo mismo para «Yendo a la escuela» (que también vale 15 puntos).
+
 
 ## La carrera de vallas
 
