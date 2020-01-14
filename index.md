@@ -89,7 +89,14 @@ Crit.MA.4.3. Comprender el concepto de función. Reconocer, interpretar y analiz
 
 - Est.MA.4.3.1. Reconoce si una gráfica representa o no una función.
 
+## Crit.MA.4.4 (2º ESO)
 
+Crit.MA.4.4. Reconocer, representar y analizar las funciones lineales, utilizándolas para resolver problemas.
+
+- Est.MA.4.4.1. Reconoce y representa una función lineal a partir de la ecuación o de una tabla de valores, y obtiene la pendiente de la recta correspondiente.
+- Est.MA.4.4.2. Obtiene la ecuación de una recta a partir de la gráfica o tabla de valores.
+- Est.MA.4.4.3. Escribe la ecuación correspondiente a la relación lineal existente entre dos magnitudes y la representa.
+- Est.MA.4.4.4. Estudia situaciones reales sencillas y, apoyándose en recursos tecnológicos, identifica el modelo matemático funcional (lineal o afín) más adecuado para explicarlas y realiza predicciones y simulaciones sobre su comportamiento.
 
 ## 3º ESO Académicas {data-background-image="assets/art/legislacion.jpg" data-background-opacity="0.15"}
 
