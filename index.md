@@ -445,12 +445,12 @@ Teníamos que seguir una ruta bastante difícil y no era fácil encontrar los mo
 
 ## Abordando un problema en grupo: actividad 2
 
-![](assets/images/matriz.jpg){width=80%}  
+![](assets/images/matriz.jpg){width=70%}  
 
 ## Abordando un problema en grupo: actividad final
 
 :::incremental
-1. ¿Hubieras preferido pensar sobre las actividades individualmente antes de discutirlas con tu grupo?
+1. ¿Habrías preferido pensar sobre las actividades individualmente antes de discutirlas con tu grupo?
 2. ¿Cómo se ha organizado el grupo...
 	- ... para registrar sus decisiones?
 	- ... para preparar su presentación a los otros grupos?
@@ -471,31 +471,35 @@ Teníamos que seguir una ruta bastante difícil y no era fácil encontrar los mo
 
 ## Guía para las discusiones de aula
 
-Ser fundamentalmente un **moderador** o **facilitador** que:
+> Ser fundamentalmente un **moderador** o **facilitador** que:
 
-— Dirige el curso de la discusión y da a todos la oportunidad de participar.
-— No interrumpe ni permite a los demás interrumpir al que habla.
-— Valora todas las opiniones y no impone su propio punto de vista.
-— Ayuda a los alumnos a clarificar sus ideas en sus propios términos.
-
-
-## Guía para las discusiones de aula
-
-Ser ocasionalmente un **interrogador** o **provocador** que:
-
-— Introduce una nueva idea cuando la discusión decae.
-— Investiga un punto de vista.
-— Hace de abogado del diablo.
-— Enfoca a un concepto importante.
-— Evita realizar preguntas múltiples, dirigistas, retóricas o cerradas, que sólo requieran respuestas monosilábicas.
-
+:::incremental
+- Dirige el curso de la discusión y da a todos la oportunidad de participar.
+- No interrumpe ni permite a los demás interrumpir al que habla.
+- Valora todas las opiniones y no impone su propio punto de vista.
+- Ayuda a los alumnos a clarificar sus ideas en sus propios términos.
+:::
 
 ## Guía para las discusiones de aula
 
-No ser nunca un **juez** o **evaluador** que:
+> Ser ocasionalmente un **interrogador** o **provocador** que:
 
-— Valora todas las respuestas con un «sí», «bien», «interesante », etc. A menudo esto dificulta que a los demás aporten ideas alternativas, y predispone más hacia resultados exteriormente aceptables que hacia un diálogo exploratorio.
-— Resume prematuramente.
+:::incremental
+- Introduce una nueva idea cuando la discusión decae.
+- Investiga un punto de vista.
+- Hace de abogado del diablo.
+- Enfoca a un concepto importante.
+- Evita realizar preguntas múltiples, dirigistas, retóricas o cerradas, que sólo requieran respuestas monosilábicas.
+:::
+
+## Guía para las discusiones de aula
+
+> No ser nunca un **juez** o **evaluador** que:
+
+:::incremental
+- Valora todas las respuestas con un «sí», «bien», «interesante », etc. A menudo esto dificulta que a los demás aporten ideas alternativas, y predispone más hacia resultados exteriormente aceptables que hacia un diálogo exploratorio.
+- Resume prematuramente.
+:::
 
 ## Interpretación de puntos
 
@@ -538,15 +542,53 @@ Cada una de estas cuatro figuras tiene un área de 36 unidades cuadradas.
 
 :::::::::::::: {.columns}
 
-::: {.column width="49%"}
+::: {.column width="65%"}
 
-![](assets/images/puntos4.jpg){width=80%}  
+![](assets/images/puntos4.jpg){width=95%}  
 
 :::
 
-::: {.column width="49%"}
+::: {.column width="35%"}
 
-![](assets/images/puntos5.jpg){width=90%}  
+![](assets/images/puntos5.jpg){width=95%}  
+
+:::
+:::::::::::::
+
+
+## Gráficas a partir de textos 
+
+![](assets/images/texto1.png){width=65%}  
+
+![](assets/images/texto2.png){width=50%} 
+
+## Gráficas a partir de textos 
+
+Compara tu gráfica con las de tus compañeros. Intenta llegar a un acuerdo sobre la versión correcta. Escribe cómo has llegado a tu respuesta.
+
+- ¿Debería ir la gráfica «hacia arriba» o «hacia abajo»? ¿Por qué?
+- ¿Debería ser la gráfica una línea recta? ¿Por qué?
+- ¿La gráfica debería cortar los ejes? Si es así, ¿dónde? Si no, ¿por qué no?
+
+## ¿Son las gráficas solamente dibujos?
+
+
+¿Cómo cambia la velocidad de la bola cuando va por el aire en este golpe de golf?
+
+- Discute esta situación con tu compañero y escribe una descripción clara, indicando cómo creéis que varía la velocidad de la bola.
+- Ahora haz una gráfica aproximada para ilustrar tu descripción:
+
+:::::::::::::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/images/golf.png){width=95%}  
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/golf2.png){width=95%}  
 
 :::
 :::::::::::::
@@ -554,21 +596,91 @@ Cada una de estas cuatro figuras tiene un área de 36 unidades cuadradas.
 
 ## ¿Son las gráficas solamente dibujos?
 
+![](assets/images/golf3.png){width=55%}  
 
-## Gráficas a partir de textos 
 
+
+## Gráficas a partir de dibujos
+ 
+Pedro intentó resolver la cuestión del golf y dibujó una gráfica como esta:
+
+- Coméntalo.
+- ¿Puedes sugerir por qué hizo la gráfica así?
+- ¿Ves alguna relación entre el intento de Pedro y el dibujo?
+
+![](assets/images/golf4.png){width=50%}  
 
 ## Gráficas a partir de dibujos 
 
+![](assets/images/rusa1.png){width=70%}  
+
+![](assets/images/rusa2.png){width=70%}  
+
+## Gráficas a partir de dibujos 
+
+¿Cómo crees que varía la velocidad de un coche cuando está dando la segunda vuelta en cada uno de los tres circuitos dibujados abajo?
+(S = punto de salida).
+
+![](assets/images/dibujos2.png){width=70%}  
+
+![](assets/images/dibujos3.png){width=50%}  
 
 ## Gradientes
 
 
+![](assets/images/grad1.png){width=25%}  
+
+![](assets/images/grad2.png){width=85%}  
+
+
+## Gradientes
+
+![](assets/images/grad3.png){width=85%} 
+
+![](assets/images/grad4.png){width=85%}  
+
+
+## Gradientes
+
+:::::::::::::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/images/grad5.png){width=85%}  
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/grad6.png){width=85%}  
+
+:::
+:::::::::::::
+
 ## Gráficas a partir de tablas 
 
+Sin marcar los puntos exactamente, intenta realizar una gráfica aproximada que describa la relación entre la altura del globo y la distancia al horizonte.
+
+![](assets/images/tablas1.png){width=65%}
+
+
+## Gráficas a partir de tablas 
+
+![](assets/images/tablas2.png){width=95%}
 
 ## Funciones en situaciones 
 
+
+![](assets/images/situaciones1.png){width=85%}
+
+## Funciones en situaciones 
+
+Hay que construir una conejera rectangular con 22 metros de valla metálica. El dueño está interesado en saber cómo depende el área cercada
+por la valla de la longitud de la conejera. Piensa detenidamente sobre esta situación y discútela con tu compañero.
+- Describe, por escrito, cómo cambiará el área al aumentar la longitud, tomando todos los valores posibles.
+- Ilustra tu respuesta con una gráfica:
+
+![](assets/images/situaciones2.png){width=55%}
 
 
 
