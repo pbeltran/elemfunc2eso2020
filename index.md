@@ -677,6 +677,7 @@ Sin marcar los puntos exactamente, intenta realizar una gráfica aproximada que 
 
 Hay que construir una conejera rectangular con 22 metros de valla metálica. El dueño está interesado en saber cómo depende el área cercada
 por la valla de la longitud de la conejera. Piensa detenidamente sobre esta situación y discútela con tu compañero.
+
 - Describe, por escrito, cómo cambiará el área al aumentar la longitud, tomando todos los valores posibles.
 - Ilustra tu respuesta con una gráfica:
 
@@ -758,6 +759,15 @@ Puntuación parcial:
 
 En total se pueden conceder 8 puntos para esta cuestión.
 
+## Pregunta de examen...
+
+![](assets/images/toscaca.png){ width=70% }
+
+## Ejemplos de respuestas
+
+![](assets/images/toscaca.png){ width=60% }
+
+[https://twitter.com/pbeltranp/status/1126743840168103936](https://twitter.com/pbeltranp/status/1126743840168103936)
 
 
 # Desmos
@@ -784,17 +794,17 @@ Imagen: libro de Danielson (2016).
 ## Ejemplo de WODB de funciones
 
 
-![](assets/images/wodb9.jpg){ width=80% }
- [www.wodb.ca](https://wodb.ca/)
+![](assets/images/wodb9.jpg){ width=65% }
+
+[www.wodb.ca](https://wodb.ca/)
 
 
 ## Role-playing para los sistemas de coordenadas
 
-Grupo cubic.
 
+[https://www.youtube.com/watch?v=4mPKUYpTkSU](https://www.youtube.com/watch?v=4mPKUYpTkSU)
 
-
-
+  
 # Dificultades
 
 ##
