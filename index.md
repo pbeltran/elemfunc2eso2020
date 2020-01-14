@@ -371,7 +371,7 @@ Estos materiales sirven para ayudar a los alumnos a desarrollar fluidez en la ut
 
 ## Ambiente de clase
 
-Las tareas planteadas y la forma de _hacer matemáticas_ contribuyen a crear un ambiente en clase que anime a una discusión meditada en la que los alumnos intenten comprender o comunicar información.
+Las tareas planteadas y la forma de _hacer matemáticas_ contribuyen a crear un ambiente en clase que anima a una discusión meditada en la que los alumnos intenten comprender o comunicar información.
 
 ## Estructura del libro
 
@@ -811,10 +811,11 @@ Imagen: libro de Danielson (2016).
 
 [https://www.youtube.com/watch?v=4mPKUYpTkSU](https://www.youtube.com/watch?v=4mPKUYpTkSU)
 
+Grup Cúbic
   
 # Dificultades
 
-##
+## Entre otras
 
 Leinhardt, Zaslavsky, and Stein (1990):
 
@@ -880,24 +881,17 @@ English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathem
 
 # Créditos y referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
-## Lista de referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
-
-Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational videos according to specific didactics: the case of mathematics / Los vídeos educativos en línea desde las didácticas específicas: el caso de las matemáticas. _Cultura y Educación, 30_(4), 633-662. doi: 10.1080/11356405.2018.1524651. [Enlace](https://www.tandfonline.com/eprint/r8gbHE2dM75Z3t3wdE7U/full)
-
-Beltrán-Pellicer, P., Godino, J. D. (2019). An onto-semiotic approach to the analysis of the affective domain in mathematics education. _Cambridge Journal of Education_, 1-20. DOI: 10.1080/0305764X.2019.1623175. [Enlace](https://www.tandfonline.com/eprint/KimkMTSJt9uGibVg9Gej/full?target=10.1080/0305764X.2019.1623175) 
-
-
 ## Créditos {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer y José Mª Muñoz-Escolano) y poniendo un enlace a [https://pbeltran.github.io/unaempresadocente-videos/](https://pbeltran.github.io/unaempresadocente-videos/).
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citando al autor y poniendo un enlace a [https://pbeltran.github.io/elemfunc2eso2020/#/title-slide/](https://pbeltran.github.io/elemfunc2eso2020/#/title-slide).
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
 ## {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
-Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/unaempresadocente-videos](https://github.com/pbeltran/unaempresadocente-videos)
+Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/elemfunc2eso2020](https://github.com/pbeltran/elemfunc2eso2020)
 
 
 La fuente de las imágenes es propia, salvo las que se ha citado la fuente en su diapositiva y las de dominio público obtenidas en [Unsplash](https://unsplash.com).
