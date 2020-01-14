@@ -885,7 +885,7 @@ English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathem
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citando al autor y poniendo un enlace a [https://pbeltran.github.io/elemfunc2eso2020/#/title-slide/](https://pbeltran.github.io/elemfunc2eso2020/#/title-slide).
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citando al autor y poniendo un enlace a [https://pbeltran.github.io/elemfunc2eso2020/](https://pbeltran.github.io/elemfunc2eso2020).
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
