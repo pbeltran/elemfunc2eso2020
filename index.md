@@ -881,6 +881,10 @@ English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathem
 
 # Créditos y referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
+##
+
+Esta presentación se ha preparado fundamentalmente a partir de los materiales sobre funciones del [Shell Centre](https://www.mathshell.com/), con el objetivo de servir de apoyo en sesiones de formación. 
+
 ## Créditos {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
 _Compartir el conocimiento de forma libre es una buena práctica._
